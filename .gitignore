@@ -1,0 +1,11 @@
+Assignment_1.*
+*.jou
+*.log
+*.str
+.Xil/
+
+!.gitignore
+!README.md
+!report.md
+!Assignment_1.xpr
+!Assignment_1.srcs/
